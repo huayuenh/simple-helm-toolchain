@@ -78,3 +78,5 @@ properties:
   - name: dev-resource-group
     value: ${PROD_RESOURCE_GROUP}
     type: text
+  - name: artifactory-dockerconfigjson
+    type: SECURE
