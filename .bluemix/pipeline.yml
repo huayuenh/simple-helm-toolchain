@@ -227,4 +227,4 @@ stages:
       # ------------------
       # source: https://raw.githubusercontent.com/open-toolchain/commons/master/scripts/check_health.sh
       # Check liveness and readiness probes to confirm application is healthy
-      source <(curl -sSL "https://raw.githubusercontent.com/open-toolchain/commons/master/scripts/check_health.sh")
+      source <(curl -sSL "ttps://raw.githubusercontent.com/huayuenh/commons/healthcheck/scripts/check_health.sh")
